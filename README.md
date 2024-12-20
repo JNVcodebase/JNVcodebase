@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JNVcodebase
 - 👀 I’m interested in Gen AI
-- 🌱 I’m currently learning Version Control
+- 🌱 I’m currently learning LLM Finetuning
 - 💞️ I’m looking to collaborate on Full Stack Dev Projects
 - 📫 How to reach me voiceemotionproject@gmail.com
 
