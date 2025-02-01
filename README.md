@@ -3,7 +3,7 @@
 ✨ About Me
 
 🎓 Recent graduate with a Master’s degree in Software Engineering (High Honour Roll), blending technical expertise with impactful writing. Proficient in full-stack development, AI, and Data Science, with a passion for operational efficiency and research. A skilled communicator who transforms complex ideas into engaging content.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠 Skills
 
 💻 Technical Skills
@@ -16,6 +16,7 @@ Testing: Selenium Testing (Java)
 
 Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🤝 Soft Skills
 
@@ -27,6 +28,7 @@ Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 
 🚀 Quick adaptability and eagerness to learn
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📌 Projects
 
