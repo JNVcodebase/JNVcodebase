@@ -1,7 +1,7 @@
 # Hi, I'm Jahnavi 👋  
 ### Software Engineer | Writer | Researcher  
 
-![Your Name](https://via.placeholder.com/150) <!-- Replace with your image or GIF -->
+
 
 🔧 **Tech Stack**:  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
