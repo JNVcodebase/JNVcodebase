@@ -16,6 +16,7 @@ Testing: Selenium Testing (Java)
 
 Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 
+
 🤝 Soft Skills
 
 📝 Excellent written and verbal communication
@@ -25,6 +26,7 @@ Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 🧠 Analytical problem-solving
 
 🚀 Quick adaptability and eagerness to learn
+
 
 📌 Projects
 
@@ -36,6 +38,7 @@ Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 
 🔍 Applied machine learning to analyze speech patterns.
 
+
 🔐 Cyber Threat Intelligence Mining
 
 🛡 Conducted in-depth research on cyber threats and intelligence gathering.
@@ -43,6 +46,7 @@ Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 🔗 Developed frameworks to enhance threat detection.
 
 📊 Integrated data analytics to extract insights from cybersecurity incidents.
+
 
 💼 Experience
 
@@ -60,6 +64,7 @@ Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 
 🏗 Built back-end components with Java.
 
+
 🎓 Certifications
 
 🎖 Infosys AI Certifications: Data Science, NLP, Deep Learning, Agile Scrum, RPA, Generative AI.
@@ -67,6 +72,7 @@ Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 🎖 Infosys Java Full Stack Certification
 
 🎖 IBM Certifications: Data Science, Data Analysis Foundation
+
 
 ✍ Writing Portfolio
 
@@ -85,6 +91,7 @@ Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 💡 Articles on software engineering, coding best practices, and emerging tech.
 
 🔍 Case studies on operational efficiency and business optimization.
+
 
 🎯 Interests
 
