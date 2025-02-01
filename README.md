@@ -53,7 +53,7 @@
 - 🔗 Developed frameworks to enhance threat detection.  
 - 📊 Integrated data analytics to extract insights from cybersecurity incidents.  
 
-![Cyber Threat GIF]([https://media.giphy.com/media/your-gif-link.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhjaGE0OTBuOHg1cmR6YW81MW16M3Q2NDZuZjRreWU5N3U3bTlhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif)) <!-- Replace with a relevant GIF -->
+![Cyber Threat GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhjaGE0OTBuOHg1cmR6YW81MW16M3Q2NDZuZjRreWU5N3U3bTlhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif) <!-- Replace with a relevant GIF -->
 
 ---
 
