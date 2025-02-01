@@ -1,7 +1,7 @@
-# Hi, I'm Jahnavi 👋  
+# Hi, I'm [Your Name] 👋  
 ### Software Engineer | Writer | Researcher  
 
-
+![Your Name](https://via.placeholder.com/150) <!-- Replace with your image or GIF -->
 
 🔧 **Tech Stack**:  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -105,9 +105,9 @@
 ---
 
 ## 📫 Let's Connect!  
-- [LinkedIn](https://www.linkedin.com/in/jahnavi-somaraju/)  
-- [GitHub](https://github.com/JNVcodebase)  
-- [Email](jahnavisomaraju@gmail.com)  
+- [LinkedIn](#)  
+- [GitHub](#)  
+- [Email](#)  
 
 ---
 
