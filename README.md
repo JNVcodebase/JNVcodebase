@@ -1,4 +1,4 @@
-[Your Name]📌 Software Engineer | Writer | Researcher
+📌 Software Engineer | Writer | Researcher
 
 ✨ About Me
 
