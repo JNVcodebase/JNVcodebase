@@ -105,7 +105,7 @@
 ---
 
 ## 📫 Let's Connect!  
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/jahnavi-somaraju/)  
 - [GitHub](#)  
 - [Email](#)  
 
