@@ -1,115 +1,116 @@
-📌 Software Engineer | Writer | Researcher
+# Hi, I'm [Your Name] 👋  
+### Software Engineer | Writer | Researcher  
 
-✨ About Me
+![Your Name](https://via.placeholder.com/150) <!-- Replace with your image or GIF -->
 
-🎓 Recent graduate with a Master’s degree in Software Engineering (High Honour Roll), blending technical expertise with impactful writing. Proficient in full-stack development, AI, and Data Science, with a passion for operational efficiency and research. A skilled communicator who transforms complex ideas into engaging content.
+🔧 **Tech Stack**:  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛠 Skills
+---
 
-💻 Technical Skills
+## ✨ About Me  
 
-Front-End Development: HTML, CSS, JavaScript
+🎓 Recent graduate with a **Master’s degree in Software Engineering** (High Honour Roll), blending technical expertise with impactful writing. Proficient in **full-stack development, AI, and Data Science**, with a passion for operational efficiency and research. A skilled communicator who transforms complex ideas into engaging content.  
 
-Back-End Development: Core Java, C, Python (Basics), SQL Querying
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) <!-- Replace with a relevant GIF -->
 
-Testing: Selenium Testing (Java)
+---
 
-Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
+## 🛠 Skills  
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 💻 Technical Skills  
+| **Front-End** | **Back-End** | **Testing** | **Tools** |  
+|---------------|--------------|-------------|-----------|  
+| HTML          | Core Java    | Selenium    | Eclipse   |  
+| CSS           | Python       |             | PyCharm   |  
+| JavaScript    | SQL          |             | VSCode    |  
 
-🤝 Soft Skills
+### 🤝 Soft Skills  
+- 📝 Excellent written and verbal communication  
+- 🔄 Strong collaboration and teamwork abilities  
+- 🧠 Analytical problem-solving  
+- 🚀 Quick adaptability and eagerness to learn  
 
-📝 Excellent written and verbal communication
+---
 
-🔄 Strong collaboration and teamwork abilities
+## 📌 Projects  
 
-🧠 Analytical problem-solving
+### 🎙 Speech Emotion Recognition  
+- 🎯 Implemented **Deep Learning techniques** to classify emotions from speech audio.  
+- 🚀 Optimized models for improved accuracy and efficiency.  
+- 🔍 Applied machine learning to analyze speech patterns.  
 
-🚀 Quick adaptability and eagerness to learn
+![Speech Emotion Recognition GIF](https://media.giphy.com/media/your-gif-link.gif) <!-- Replace with a relevant GIF -->
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🔐 Cyber Threat Intelligence Mining  
+- 🛡 Conducted in-depth research on cyber threats and intelligence gathering.  
+- 🔗 Developed frameworks to enhance threat detection.  
+- 📊 Integrated data analytics to extract insights from cybersecurity incidents.  
 
-📌 Projects
+![Cyber Threat GIF](https://media.giphy.com/media/your-gif-link.gif) <!-- Replace with a relevant GIF -->
 
-🎙 Speech Emotion Recognition
+---
 
-🎯 Implemented Deep Learning techniques to classify emotions from speech audio.
+## 💼 Experience  
 
-🚀 Optimized models for improved accuracy and efficiency.
+### 🔹 Full Stack Developer Trainee | TAP ACADEMY, Bengaluru (Aug 2022 - Dec 2022)  
+- 🖥 Developed interactive web pages, increasing conversion rates by **10%**.  
+- 🌍 Enhanced website accessibility following **WCAG 2.1 AA standards**.  
+- 🎨 Collaborated with designers to create pixel-perfect UI.  
+- 🗄 Managed databases for structured data storage.  
+- ✅ Implemented unit tests to ensure high-quality code.  
+- 🏗 Built back-end components with **Java**.  
 
-🔍 Applied machine learning to analyze speech patterns.
+---
 
+## 🎓 Certifications  
 
-🔐 Cyber Threat Intelligence Mining
+- 🎖 **Infosys AI Certifications**: Data Science, NLP, Deep Learning, Agile Scrum, RPA, Generative AI.  
+- 🎖 **Infosys Java Full Stack Certification**  
+- 🎖 **IBM Certifications**: Data Science, Data Analysis Foundation  
 
-🛡 Conducted in-depth research on cyber threats and intelligence gathering.
+---
 
-🔗 Developed frameworks to enhance threat detection.
+## ✍ Writing Portfolio  
 
-📊 Integrated data analytics to extract insights from cybersecurity incidents.
+### 🔥 Motivational & Self-Help Writing  
+- 📖 **The Fire Within - Rising Up!** (A book on resilience, growth, and empowerment)  
+- ✨ Articles on self-improvement, overcoming adversity, and success habits.  
+- 📝 Blog posts on productivity, mindset shifts, and personal development.  
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 📑 Technical Writing & Research  
+- 📜 Research papers on AI, machine learning, and cybersecurity.  
+- 💡 Articles on software engineering, coding best practices, and emerging tech.  
+- 🔍 Case studies on operational efficiency and business optimization.  
 
-💼 Experience
+![Writing GIF](https://media.giphy.com/media/your-gif-link.gif) <!-- Replace with a relevant GIF -->
 
-🔹 Full Stack Developer Trainee | TAP ACADEMY, Bengaluru (Aug 2022 - Dec 2022)
+---
 
-🖥 Developed interactive web pages, increasing conversion rates by 10%.
+## 🎯 Interests  
 
-🌍 Enhanced website accessibility following WCAG 2.1 AA standards.
+- 🤖 AI/Machine Learning advancements (Generative AI, ANNs, etc.)  
+- 💻 Exploring new programming languages and frameworks.  
+- 📚 Writing and researching diverse topics (philosophy, history, culture).  
+- 🎬 Watching documentaries & learning new languages.  
 
-🎨 Collaborated with designers to create pixel-perfect UI.
+![Philosophy GIF](https://media.giphy.com/media/your-gif-link.gif) <!-- Replace with a relevant GIF -->
 
-🗄 Managed databases for structured data storage.
+---
 
-✅ Implemented unit tests to ensure high-quality code.
+## 📫 Let's Connect!  
+- [LinkedIn](#)  
+- [GitHub](#)  
+- [Email](#)  
 
-🏗 Built back-end components with Java.
+---
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
-🎓 Certifications
+⭐ **Fun Fact**: I love combining my passion for coding with my love for writing to create impactful content and innovative solutions!  
 
-🎖 Infosys AI Certifications: Data Science, NLP, Deep Learning, Agile Scrum, RPA, Generative AI.
-
-🎖 Infosys Java Full Stack Certification
-
-🎖 IBM Certifications: Data Science, Data Analysis Foundation
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-✍ Writing Portfolio
-
-🔥 Motivational & Self-Help Writing
-
-📖 The Fire Within - Rising Up! (A book on resilience, growth, and empowerment)
-
-✨ Articles on self-improvement, overcoming adversity, and success habits.
-
-📝 Blog posts on productivity, mindset shifts, and personal development.
-
-📑 Technical Writing & Research
-
-📜 Research papers on AI, machine learning, and cybersecurity.
-
-💡 Articles on software engineering, coding best practices, and emerging tech.
-
-🔍 Case studies on operational efficiency and business optimization.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-🎯 Interests
-
-🤖 AI/Machine Learning advancements (Generative AI, ANNs, etc.)
-
-💻 Exploring new programming languages and frameworks.
-
-📚 Writing and researching diverse topics (philosophy, history, culture).
-
-🎬 Watching documentaries & learning new languages.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-📬 Contact Information
-
-📧 Email: [Your Email]🔗 LinkedIn: [Your LinkedIn Profile]🌐 Portfolio Website: [Your Website (Coming Soon!)]
+![Footer GIF](https://media.giphy.com/media/your-gif-link.gif) <!-- Replace with a relevant GIF -->
