@@ -1,7 +1,7 @@
-# Hi, I'm [Your Name] 👋  
+# Hi, I'm Jahnavi 👋  
 ### Software Engineer | Writer | Researcher  
 
-![Your Name](https://via.placeholder.com/150) <!-- Replace with your image or GIF -->
+
 
 🔧 **Tech Stack**:  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -46,14 +46,14 @@
 - 🚀 Optimized models for improved accuracy and efficiency.  
 - 🔍 Applied machine learning to analyze speech patterns.  
 
-![Speech Emotion Recognition GIF](https://media.giphy.com/media/your-gif-link.gif) <!-- Replace with a relevant GIF -->
+![Speech Emotion Recognition GIF]([https://media.giphy.com/media/your-gif-link.gif](https://media.giphy.com/media/PxSFAnuubLkSA/giphy.gif?cid=790b7611htjb80a9aehaj35bdfa6rg6uourlc042lwvmn0dz&ep=v1_gifs_search&rid=giphy.gif&ct=g)) <!-- Replace with a relevant GIF -->
 
 ### 🔐 Cyber Threat Intelligence Mining  
 - 🛡 Conducted in-depth research on cyber threats and intelligence gathering.  
 - 🔗 Developed frameworks to enhance threat detection.  
 - 📊 Integrated data analytics to extract insights from cybersecurity incidents.  
 
-![Cyber Threat GIF](https://media.giphy.com/media/your-gif-link.gif) <!-- Replace with a relevant GIF -->
+![Cyber Threat GIF]([https://media.giphy.com/media/your-gif-link.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhjaGE0OTBuOHg1cmR6YW81MW16M3Q2NDZuZjRreWU5N3U3bTlhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif)) <!-- Replace with a relevant GIF -->
 
 ---
 
@@ -89,7 +89,7 @@
 - 💡 Articles on software engineering, coding best practices, and emerging tech.  
 - 🔍 Case studies on operational efficiency and business optimization.  
 
-![Writing GIF](https://media.giphy.com/media/your-gif-link.gif) <!-- Replace with a relevant GIF -->
+![Writing GIF]([https://media.giphy.com/media/your-gif-link.gif](https://media.giphy.com/media/l4FGEfO2es6g8w4AU/giphy.gif?cid=790b7611y0a092paaz4ao6ku6kxmj4gvjbqdybw02vk3jfv1&ep=v1_gifs_search&rid=giphy.gif&ct=g)) <!-- Replace with a relevant GIF -->
 
 ---
 
@@ -100,17 +100,17 @@
 - 📚 Writing and researching diverse topics (philosophy, history, culture).  
 - 🎬 Watching documentaries & learning new languages.  
 
-![Philosophy GIF](https://media.giphy.com/media/your-gif-link.gif) <!-- Replace with a relevant GIF -->
+![Philosophy GIF]([https://media.giphy.com/media/your-gif-link.gif](https://media.giphy.com/media/f9TAtXbHefameh2gZE/giphy.gif?cid=ecf05e47t43hvoep6ed5zhqqcgsyud042wjuth3neqvgi5n2&ep=v1_gifs_search&rid=giphy.gif&ct=g)) <!-- Replace with a relevant GIF -->
 
 ---
 
 ## 📫 Let's Connect!  
-- [LinkedIn](#)  
-- [GitHub](#)  
-- [Email](#)  
+- [LinkedIn](https://www.linkedin.com/in/jahnavi-somaraju/)  
+- [GitHub](https://github.com/JNVcodebase)  
+- [Email](jahnavisomaraju@gmail.com)  
 
 ---
 
 ⭐ **Fun Fact**: I love combining my passion for coding with my love for writing to create impactful content and innovative solutions!  
 
-![Footer GIF](https://media.giphy.com/media/your-gif-link.gif) <!-- Replace with a relevant GIF -->
+![Footer GIF]([https://media.giphy.com/media/your-gif-link.gif](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611yvwrs1ckvpgbah6yxutfj58pp65l2wydz8oj55zo&ep=v1_gifs_search&rid=giphy.gif&ct=g)) <!-- Replace with a relevant GIF -->
