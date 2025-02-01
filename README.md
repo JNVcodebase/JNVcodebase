@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋  
+# Hi, I'm Jahnavi 👋  
 ### Software Engineer | Writer | Researcher  
 
 ![Your Name](https://via.placeholder.com/150) <!-- Replace with your image or GIF -->
