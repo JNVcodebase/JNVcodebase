@@ -3,6 +3,7 @@
 ✨ About Me
 
 🎓 Recent graduate with a Master’s degree in Software Engineering (High Honour Roll), blending technical expertise with impactful writing. Proficient in full-stack development, AI, and Data Science, with a passion for operational efficiency and research. A skilled communicator who transforms complex ideas into engaging content.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠 Skills
 
@@ -49,6 +50,7 @@ Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 
 📊 Integrated data analytics to extract insights from cybersecurity incidents.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 💼 Experience
 
@@ -66,7 +68,7 @@ Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 
 🏗 Built back-end components with Java.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 🎓 Certifications
 
 🎖 Infosys AI Certifications: Data Science, NLP, Deep Learning, Agile Scrum, RPA, Generative AI.
@@ -75,6 +77,7 @@ Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 
 🎖 IBM Certifications: Data Science, Data Analysis Foundation
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✍ Writing Portfolio
 
@@ -94,7 +97,7 @@ Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 
 🔍 Case studies on operational efficiency and business optimization.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 Interests
 
 🤖 AI/Machine Learning advancements (Generative AI, ANNs, etc.)
@@ -104,6 +107,8 @@ Development Tools: Eclipse, PyCharm, Jupyter Notebook, VSCode
 📚 Writing and researching diverse topics (philosophy, history, culture).
 
 🎬 Watching documentaries & learning new languages.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📬 Contact Information
 
