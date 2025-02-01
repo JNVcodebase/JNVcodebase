@@ -106,8 +106,8 @@
 
 ## 📫 Let's Connect!  
 - [LinkedIn](https://www.linkedin.com/in/jahnavi-somaraju/)  
-- [GitHub](#)  
-- [Email](#)  
+- [GitHub](https://github.com/JNVcodebase)  
+- [Email](jahnavisomaraju@gmail.com)  
 
 ---
 
