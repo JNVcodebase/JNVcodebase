@@ -46,7 +46,7 @@
 - 🚀 Optimized models for improved accuracy and efficiency.  
 - 🔍 Applied machine learning to analyze speech patterns.  
 
-![Speech Emotion Recognition GIF]([https://media.giphy.com/media/your-gif-link.gif](https://media.giphy.com/media/PxSFAnuubLkSA/giphy.gif?cid=790b7611htjb80a9aehaj35bdfa6rg6uourlc042lwvmn0dz&ep=v1_gifs_search&rid=giphy.gif&ct=g)) <!-- Replace with a relevant GIF -->
+![Speech Emotion Recognition GIF](https://media.giphy.com/media/PxSFAnuubLkSA/giphy.gif?cid=790b7611htjb80a9aehaj35bdfa6rg6uourlc042lwvmn0dz&ep=v1_gifs_search&rid=giphy.gif&ct=g) <!-- Replace with a relevant GIF -->
 
 ### 🔐 Cyber Threat Intelligence Mining  
 - 🛡 Conducted in-depth research on cyber threats and intelligence gathering.  
