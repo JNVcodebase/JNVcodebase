@@ -117,7 +117,7 @@ With expertise in **Full-Stack Development, AI, Data Science, and workflow autom
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jahnavi-somaraju/) | [GitHub](#) | [Portfolio](#) 
+- [LinkedIn](https://www.linkedin.com/in/jahnavi-somaraju/) | [GitHub](https://github.com/JNVcodebase) | [Portfolio](#) 
 
 ---
 
