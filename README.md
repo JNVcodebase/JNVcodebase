@@ -31,9 +31,9 @@ With expertise in **Full-Stack Development, AI, Data Science, and workflow autom
 ### 💻 Technical Skills
 | Front-End | Back-End | Tools |
 |-----------|----------|-------|
-| HTML      | Core Java | ![Eclipse GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif) Eclipse |
-| CSS       | Python   | ![PyCharm GIF](https://media.giphy.com/media/l0HlPjezGzmq9s65O/giphy.gif) PyCharm |
-| JavaScript| SQL      | ![VSCode GIF](https://media.giphy.com/media/3o6gE5aYF0HRX9bQJy/giphy.gif) VSCode |
+| HTML      | Core Java |  Eclipse |
+| CSS       | Python   |  PyCharm |
+| JavaScript| SQL      |  VSCode |
 |           | AI & ML  | n8n, AI Tools, Generative AI |
 
 ### 🤝 Soft Skills
@@ -65,7 +65,7 @@ With expertise in **Full-Stack Development, AI, Data Science, and workflow autom
 - Built custom **n8n agents** to automate research, workflow, and creative tasks.  
 - Explored Generative AI tools to accelerate productivity and innovation.  
 
-![Automation GIF](https://media.giphy.com/media/xT5LMmZpXowKffgOqM/giphy.gif)
+![Automation GIF](https://share.google/images/fz7qb9qjrIceV75zw)
 
 ---
 
