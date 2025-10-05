@@ -65,7 +65,7 @@ With expertise in **Full-Stack Development, AI, Data Science, and workflow autom
 - Built custom **n8n agents** to automate research, workflow, and creative tasks.  
 - Explored Generative AI tools to accelerate productivity and innovation.  
 
-![Automation GIF](https://share.google/images/fz7qb9qjrIceV75zw)
+![Automation GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmJnNnBybXdjNWNzd2lyZzRwdmh2c2VnMmV1M3QzYjF5MjRmOWVtayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4H3Ii5eLChYul9p7NL/giphy.gif)
 
 ---
 
@@ -76,21 +76,21 @@ With expertise in **Full-Stack Development, AI, Data Science, and workflow autom
 - Delivered project-driven curriculum in AI, Data Science, and Software Engineering.  
 - Fostered accountability, collaboration, and creative problem solving.  
 
-![Teaching GIF](https://media.giphy.com/media/l0HlQ6pZx1n2sX0A8/giphy.gif)
+![Teaching GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlubHd1bWVnbHloOHI2eWU2aWoxYWtnNzRwd3BydnpoYmE2Mmk1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GfHDdZDCSac7EMnXO5/giphy.gif)
 
 ### 🔹 Independent Strategy & Tech Consultant | Confidential Tech Firm | Jan 2025 – Jul 2025
 - Partnered with CTO to create **strategy decks and executive frameworks**.  
 - Guided teams through complex decisions with calm and clarity.  
 - Turned abstract technical insights into actionable narratives.  
 
-![Strategy GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![Strategy GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dm1qMzNhbXpxODJkbHo4YWhrbDZpZmFybHU0OW1uajlqOGd0MDZydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ePeRrnyoTnWNK3Zalx/giphy.gif)
 
 ### 🔹 Full Stack Developer Trainee | TAP Academy, Bengaluru | Aug 2022 – Dec 2022
 - Developed dynamic web pages, improving conversion rates by 10%.  
 - Built back-end systems in **Java** and managed databases efficiently.  
 - Implemented unit tests to ensure high-quality, maintainable code.  
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJpcDNrN3owZWkwYmg3ZnBndzBrcXNvY3I2MWNtOG83cHpvNjF6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vZu2VmycJ890tP5IdH/giphy.gif)
 
 ---
 
@@ -117,7 +117,7 @@ With expertise in **Full-Stack Development, AI, Data Science, and workflow autom
 - 📝 Writing, research, and personal development  
 - 🎬 Documentaries & learning new languages  
 
-![Fun GIF](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
+![Fun GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2dnc2h1eWVmeW9peHk0aGJnZm1kbXd6NXo3aTZyNTJ1c25lcTdyMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xjy4lpGsKdKk5FAAfr/giphy.gif)
 
 ---
 
