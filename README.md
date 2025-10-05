@@ -25,12 +25,12 @@ With expertise in **Full-Stack Development, AI, Data Science, and workflow autom
 ## 🛠 Skills
 
 ### 💻 Technical Skills
-| Front-End | Back-End | Testing | Tools |
-|-----------|----------|---------|-------|
-| HTML      | Core Java | Selenium | Eclipse |
-| CSS       | Python   |         | PyCharm |
-| JavaScript| SQL      |         | VSCode |
-|           | AI & ML |         | n8n, AI Tools |
+| Front-End | Back-End | Tools |
+|-----------|----------|-------|
+| HTML      | Core Jav | Eclipse |
+| CSS       | Python   | PyCharm |
+| JavaScript| SQL      | VSCode |
+|           | AI & ML |  n8n, AI Tools |
 
 ### 🤝 Soft Skills
 - 📝 Communication & Storytelling  
