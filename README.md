@@ -61,7 +61,7 @@ With expertise in **Full-Stack Development, AI, Data Science, and workflow autom
 
 ## 💼 Experience
 
-### 🔹 Assistant Professor | Aditya College of Engineering | Jul 2025 – Present
+### 🔹 Assistant Professor |  Jul 2025 – Present
 - Mentored 35+ students on high-priority AI and software projects.  
 - Delivered project-driven curriculum in AI, Data Science, and Software Engineering.  
 - Fostered accountability, collaboration, and creative problem solving.
@@ -117,7 +117,7 @@ With expertise in **Full-Stack Development, AI, Data Science, and workflow autom
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](#) | [GitHub](#) | [Portfolio](#) | [Twitter](#)
+- [LinkedIn](#) | [GitHub](#) | [Portfolio](#) 
 
 ---
 
