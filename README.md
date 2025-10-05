@@ -1,9 +1,9 @@
 # Hi, I'm Jahnavi 👋  
-### Software Engineer | Writer | Researcher  
+### Software Engineer | Educator | Strategist | AI & Full-Stack Enthusiast
 
+---
 
-
-🔧 **Tech Stack**:  
+## 🔧 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -11,106 +11,114 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-000000?style=flat&logo=n8n&logoColor=white)
 
 ---
 
-## ✨ About Me  
+## ✨ About Me
+Jahnavi is a **dual valedictorian**, a calm force in the storm, and the **go-to person when things fall apart**. She blends technical precision with strategic storytelling, guiding CTOs and teams through **strategy decks, executive frameworks, and decision-making processes** that move the needle.  
 
-🎓 Recent graduate with a **Master’s degree in Software Engineering** (High Honour Roll), blending technical expertise with impactful writing. Proficient in **full-stack development, AI, and Data Science**, with a passion for operational efficiency and research. A skilled communicator who transforms complex ideas into engaging content.  
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) <!-- Replace with a relevant GIF -->
-
----
-
-## 🛠 Skills  
-
-### 💻 Technical Skills  
-| **Front-End** | **Back-End** | **Testing** | **Tools** |  
-|---------------|--------------|-------------|-----------|  
-| HTML          | Core Java    | Selenium    | Eclipse   |  
-| CSS           | Python       |             | PyCharm   |  
-| JavaScript    | SQL          |             | VSCode    |  
-
-### 🤝 Soft Skills  
-- 📝 Excellent written and verbal communication  
-- 🔄 Strong collaboration and teamwork abilities  
-- 🧠 Analytical problem-solving  
-- 🚀 Quick adaptability and eagerness to learn  
+With expertise in **Full-Stack Development, AI, Data Science, and workflow automation**, she aligns people, processes, and purpose while remaining unshakably composed. Her hobby of creating **n8n agents and experimenting with AI tools** often blurs the line between play and work — driving innovation in real projects.
 
 ---
 
-## 📌 Projects  
+## 🛠 Skills
 
-### 🎙 Speech Emotion Recognition  
-- 🎯 Implemented **Deep Learning techniques** to classify emotions from speech audio.  
-- 🚀 Optimized models for improved accuracy and efficiency.  
-- 🔍 Applied machine learning to analyze speech patterns.  
+### 💻 Technical Skills
+| Front-End | Back-End | Testing | Tools |
+|-----------|----------|---------|-------|
+| HTML      | Core Java | Selenium | Eclipse |
+| CSS       | Python   |         | PyCharm |
+| JavaScript| SQL      |         | VSCode |
+|           | AI & ML |         | n8n, AI Tools |
 
-![Speech Emotion Recognition GIF](https://media.giphy.com/media/PxSFAnuubLkSA/giphy.gif?cid=790b7611htjb80a9aehaj35bdfa6rg6uourlc042lwvmn0dz&ep=v1_gifs_search&rid=giphy.gif&ct=g) <!-- Replace with a relevant GIF -->
-
-### 🔐 Cyber Threat Intelligence Mining  
-- 🛡 Conducted in-depth research on cyber threats and intelligence gathering.  
-- 🔗 Developed frameworks to enhance threat detection.  
-- 📊 Integrated data analytics to extract insights from cybersecurity incidents.  
-
-![Cyber Threat GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhjaGE0OTBuOHg1cmR6YW81MW16M3Q2NDZuZjRreWU5N3U3bTlhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif) <!-- Replace with a relevant GIF -->
-
----
-
-## 💼 Experience  
-
-### 🔹 Full Stack Developer Trainee | TAP ACADEMY, Bengaluru (Aug 2022 - Dec 2022)  
-- 🖥 Developed interactive web pages, increasing conversion rates by **10%**.  
-- 🌍 Enhanced website accessibility following **WCAG 2.1 AA standards**.  
-- 🎨 Collaborated with designers to create pixel-perfect UI.  
-- 🗄 Managed databases for structured data storage.  
-- ✅ Implemented unit tests to ensure high-quality code.  
-- 🏗 Built back-end components with **Java**.  
+### 🤝 Soft Skills
+- 📝 Communication & Storytelling  
+- 🔄 Collaboration & Team Leadership  
+- 🧠 Problem Solving & Analytical Thinking  
+- 🚀 Quick Adaptability & Learning Agility  
+- 🧘 Calm under Pressure / Crisis Navigation  
 
 ---
 
-## 🎓 Certifications  
+## 📌 Projects
 
-- 🎖 **Infosys AI Certifications**: Data Science, NLP, Deep Learning, Agile Scrum, RPA, Generative AI.  
-- 🎖 **Infosys Java Full Stack Certification**  
-- 🎖 **IBM Certifications**: Data Science, Data Analysis Foundation  
+### 🎙 Speech Emotion Recognition
+- Built a **deep learning model** using TensorFlow, Keras, and Librosa to classify emotions from speech audio.  
+- Achieved **85% accuracy**, demonstrating empathy-aware computing.  
+- Applied ML to analyze complex speech patterns.
 
----
+### 🔐 Cyber Threat Intelligence Mining
+- Conducted research on cyber threats and intelligence gathering.  
+- Developed frameworks for early detection of attacks.  
+- Integrated data analytics to generate actionable insights.  
 
-## ✍ Writing Portfolio  
-
-### 🔥 Motivational & Self-Help Writing  
-- 📖 **The Fire Within - Rising Up!** (A book on resilience, growth, and empowerment)  
-- ✨ Articles on self-improvement, overcoming adversity, and success habits.  
-- 📝 Blog posts on productivity, mindset shifts, and personal development.  
-
-### 📑 Technical Writing & Research  
-- 📜 Research papers on AI, machine learning, and cybersecurity.  
-- 💡 Articles on software engineering, coding best practices, and emerging tech.  
-- 🔍 Case studies on operational efficiency and business optimization.  
-
-![Writing GIF](https://media.giphy.com/media/l4FGEfO2es6g8w4AU/giphy.gif?cid=790b7611y0a092paaz4ao6ku6kxmj4gvjbqdybw02vk3jfv1&ep=v1_gifs_search&rid=giphy.gif&ct=g) <!-- Replace with a relevant GIF -->
+### 🤖 n8n & AI Automation Projects
+- Built custom n8n agents to automate research, workflow, and creative tasks.  
+- Experimented with AI tools to accelerate productivity and innovation.  
 
 ---
 
-## 🎯 Interests  
+## 💼 Experience
 
-- 🤖 AI/Machine Learning advancements (Generative AI, ANNs, etc.)  
-- 💻 Exploring new programming languages and frameworks.  
-- 📚 Writing and researching diverse topics (philosophy, history, culture).  
-- 🎬 Watching documentaries & learning new languages.  
+### 🔹 Assistant Professor | Aditya College of Engineering | Jul 2025 – Present
+- Mentored 35+ students on high-priority AI and software projects.  
+- Delivered project-driven curriculum in AI, Data Science, and Software Engineering.  
+- Fostered accountability, collaboration, and creative problem solving.
 
-![Philosophy GIF](https://media.giphy.com/media/f9TAtXbHefameh2gZE/giphy.gif?cid=ecf05e47t43hvoep6ed5zhqqcgsyud042wjuth3neqvgi5n2&ep=v1_gifs_search&rid=giphy.gif&ct=g) <!-- Replace with a relevant GIF -->
+### 🔹 Independent Strategy & Tech Consultant | Confidential Tech Firm | Jan 2025 – Jul 2025
+- Partnered with CTO to create **strategy decks and executive frameworks**.  
+- Guided teams through complex decisions with calm and clarity.  
+- Turned abstract technical insights into actionable narratives.  
+
+### 🔹 Full Stack Developer Trainee | TAP Academy, Bengaluru | Aug 2022 – Dec 2022
+- Developed dynamic web pages, improving conversion rates by 10%.  
+- Built back-end systems in **Java** and managed databases efficiently.  
+- Implemented unit tests to ensure high-quality, maintainable code.
 
 ---
 
-## 📫 Let's Connect!  
-- [LinkedIn](https://www.linkedin.com/in/jahnavi-somaraju/)  
-- [GitHub](https://github.com/JNVcodebase)  
-- [Email](jahnavisomaraju@gmail.com)  
+## 🎓 Education
+
+- **M.Tech, Software Engineering** — JNTUA, 2024 | CGPA: 9.64 (Valedictorian)  
+- **B.Tech, Computer Science & Engineering** — JNTUA, 2022 | CGPA: 8.82 (Valedictorian)  
 
 ---
 
-⭐ **Fun Fact**: I love combining my passion for coding with my love for writing to create impactful content and innovative solutions!  
+## 🎖 Certifications
 
-![Footer GIF](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611yvwrs1ckvpgbah6yxutfj58pp65l2wydz8oj55zo&ep=v1_gifs_search&rid=giphy.gif&ct=g) <!-- Replace with a relevant GIF -->
+- Infosys AI Certifications: Data Science, NLP, Deep Learning, Agile Scrum, RPA, Generative AI  
+- Infosys Java Full Stack Certification  
+- IBM Data Science & Data Analysis Foundations  
+- Harvard CS50  
+- 5x Diplomas in Business, Operations, Project Management & Social Media Strategy (Alison)  
+
+---
+
+## ✍ Writing & Research
+
+### 🔥 Motivational & Self-Help Writing
+- **The Fire Within - Rising Up!** (Book on resilience and growth)  
+- Articles on self-improvement, productivity, and mindset.
+
+### 📑 Technical Writing & Research
+- Research papers on AI, ML, and cybersecurity.  
+- Articles on software engineering, coding best practices, and emerging tech.  
+- Case studies on operational efficiency and business optimization.
+
+---
+
+## 🎯 Interests
+- 🤖 AI/Machine Learning & Generative AI  
+- 💻 Exploring new programming languages and frameworks  
+- 📝 Writing, research, and personal development content  
+- 🎬 Watching documentaries & learning new languages  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](#) | [GitHub](#) | [Portfolio](#) | [Twitter](#)
+
+---
+
+⭐ **Fun Fact**: I love combining coding with writing to create **impactful content and innovative solutions**, bringing calm and clarity when things get complex.
